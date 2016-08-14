@@ -1,1 +1,1 @@
-# haproxy_load_balancer
+# haproxy-load-balancer
